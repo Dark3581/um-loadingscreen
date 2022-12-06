@@ -1,4 +1,49 @@
-- New Loading Screen added
-- Added ERPT Ford Focus Active
-- Added ERPT Unmarked Ford Focus Active
-- Testing Dony balls
+Cash duplication with vehicle = fixed
+Cash duplication with bank = fixed
+
+Donny
+
+________________________________________________________________________________
+
+Updated gas station
+Updated interiors in paleto = houses/shops e.g you can walk into 
+Added massive warehouse to grapeseed
+Wingstop added to mirrorpark
+Added back Paleto garage
+
+Jamie
+
+________________________________________________________________________________
+
+
+SCENES
+
+Added a resource to help immerse scenes a bit more you can use these 'scenes' for many things like the following.
+
+Display text of a menu such as McDonald menu if you are rping there
+Display text of a menu for garage parts if you are working at a garage
+Leave evidence on scene/describe a scene to responding cops such as '7 ak rounds left at scene next to person'
+
+There is alot you can do really, of course like the chat everything is logged so same rules apply if you type anything bad.
+
+Commands
+
+/scene [text to go on scene] (Can also be used while creating a scene again to update its text)
+/sceneremove (To remove nearby scene, if you have permission to do so)
+/scenehide (To toggle seeing scenes)
+
+
+Jamie
+
+________________________________________________________________________________
+
+
+Added Queue System To Prevent Mass Joining
+
+Donny
+
+________________________________________________________________________________
+
+Updated Loading Screeen (Added Custom Shots!)
+
+Donny
